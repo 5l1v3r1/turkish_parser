@@ -1,0 +1,1 @@
+This repo is only for fun. If you are looking something serious go here https://github.com/ahmetaa
